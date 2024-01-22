@@ -1,5 +1,3 @@
-<!-- This is frontend needed data structures and algorithms -->
-
 # Data Structures and Algorithms in JavaScript <!-- omit in toc -->
 
 ## Table of Contents <!-- omit in toc -->
